@@ -5,7 +5,7 @@
 
 - 👨🏻‍💻 Atualmente se aprofundando em **Python**
 
-- 📫 Como me encontrar **matheusariza@gmail.com**
+- 📫 Me contate em: **matheusariza@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
