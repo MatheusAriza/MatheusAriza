@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matheusariza&label=Profile%20views&color=0e75b6&style=flat" alt="matheusariza" /> </p>
 
-- 👨🏻‍💻 Atualmente se aprofundando em **Python, Selenium**
+- 👨🏻‍💻 Atualmente se aprofundando em **Python**
 
 - 📫 Como me encontrar **matheusariza@gmail.com**
 
